@@ -5,7 +5,8 @@
             "categoria": "hogar",
             "nombre": "Carlos",
             "numero_id": 10251205,
-            "correo": "Carlos3payco@pruebas.com"
+            "correo": "Carlos3payco@pruebas.com",
+            "valor": 50000
         },
         {
             "id_factura": "002",
@@ -20,6 +21,7 @@
             "nombre": "Maria",
             "numero_id": 11520158,
             "correo": "Maria3payco@pruebas.com"
+            "valor": 50000
         },
         {
             "id_factura": "004",
@@ -34,6 +36,7 @@
             "nombre": "Milton",
             "numero_id": 5402504,
             "correo": "Milton3payco@pruebas.com"
+            "valor": 50000
         }
     ]
 }
