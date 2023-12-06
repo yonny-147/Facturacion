@@ -20,20 +20,6 @@
             "nombre": "Maria",
             "numero_id": 11520158,
             "correo": "Maria3payco@pruebas.com"
-        },
-        {
-            "id_factura": "004",
-            "categoria": "movil",
-            "nombre": "Laura",
-            "numero_id": 25400125,
-            "correo": "Laura3payco@pruebas.com"
-        },
-        {
-            "id_factura": "005",
-            "categoria": "hogar",
-            "nombre": "Milton",
-            "numero_id": 5402504,
-            "correo": "Milton3payco@pruebas.com"
         }
     ]
 }
