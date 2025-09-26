@@ -17,7 +17,7 @@
             "valor": 25000
         },
         {
-            "id_factura": "003",
+            "id_factura": "002",
             "categoria": "hogar",
             "nombre": "Maria",
             "numero_id": 11520158,
@@ -41,4 +41,5 @@
             "valor": 50000
         }
     ]
+
 }
