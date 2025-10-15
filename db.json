@@ -39,7 +39,16 @@
             "numero_id": 5402504,
             "correo": "Milton3payco@pruebas.com",
             "valor": 50000
+        },
+        {
+            "id_factura": "006",
+            "categoria": "hogar",
+            "nombre": "Jorge",
+            "numero_id": 5402504,
+            "correo": "Jorge3payco@pruebas.com",
+            "valor": 206175.0026
         }
     ]
 
 }
+
