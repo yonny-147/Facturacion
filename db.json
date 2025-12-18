@@ -6,7 +6,7 @@
             "nombre": "Carlos",
             "numero_id": 10251205,
             "correo": "Carlos3payco@pruebas.com",
-            "valor": 3
+            "valor": 30000
         },
         {
             "id_factura": "002",
@@ -14,7 +14,7 @@
             "nombre": "David",
             "numero_id": 10548715,
             "correo": "David3payco@pruebas.com",
-            "valor": 5
+            "valor": 50000
         },
         {
             "id_factura": "002",
@@ -22,7 +22,7 @@
             "nombre": "Maria",
             "numero_id": 11520158,
             "correo": "Maria3payco@pruebas.com",
-            "valor": 2
+            "valor": 20000
         },
         {
             "id_factura": "004",
@@ -30,7 +30,7 @@
             "nombre": "Laura",
             "numero_id": 25400125,
             "correo": "Laura3payco@pruebas.com",
-            "valor": 4
+            "valor": 40000
         },
         {
             "id_factura": "005",
@@ -38,7 +38,7 @@
             "nombre": "Milton",
             "numero_id": 5402504,
             "correo": "Milton3payco@pruebas.com",
-            "valor": 5.41
+            "valor": 54100
         },
         {
             "id_factura": "006",
@@ -51,6 +51,7 @@
     ]
 
 }
+
 
 
 
