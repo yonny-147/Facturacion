@@ -41,7 +41,7 @@
       "valor": 54100
     },
     {
-      "id_factura": "006",
+      "id_factura": "011",
       "categoria": "hogar",
       "nombre": "Jorge",
       "numero_id": 5402505,
@@ -49,7 +49,7 @@
       "valor": 206175.0026
     },
     {
-      "id_factura": "007",
+      "id_factura": "011",
       "categoria": "internet",
       "nombre": "Andrea",
       "numero_id": 78451236,
@@ -57,7 +57,7 @@
       "valor": 15000.50
     },
     {
-      "id_factura": "008",
+      "id_factura": "011",
       "categoria": "tv",
       "nombre": "Felipe",
       "numero_id": 65214789,
@@ -65,7 +65,7 @@
       "valor": 99999.99
     },
     {
-      "id_factura": "009",
+      "id_factura": "011",
       "categoria": "energia",
       "nombre": "Paula",
       "numero_id": 78965412,
@@ -73,7 +73,7 @@
       "valor": 0.99
     },
     {
-      "id_factura": "010",
+      "id_factura": "011",
       "categoria": "agua",
       "nombre": "Ricardo",
       "numero_id": 95135784,
