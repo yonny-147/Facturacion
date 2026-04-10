@@ -33,7 +33,7 @@
       "valor": 40000
     },
     {
-      "id_factura": "011",
+      "id_factura": "005",
       "categoria": "hogar",
       "nombre": "Milton",
       "numero_id": 5402504,
@@ -41,7 +41,7 @@
       "valor": 54100
     },
     {
-      "id_factura": "011",
+      "id_factura": "006",
       "categoria": "hogar",
       "nombre": "Jorge",
       "numero_id": 5402505,
@@ -49,15 +49,15 @@
       "valor": 206175.0026
     },
     {
-      "id_factura": "011",
+      "id_factura": "007",
       "categoria": "internet",
       "nombre": "Andrea",
       "numero_id": 78451236,
       "correo": "andrea1payco@pruebas.com",
-      "valor": 15000.50
+      "valor": 15000.5
     },
     {
-      "id_factura": "011",
+      "id_factura": "008",
       "categoria": "tv",
       "nombre": "Felipe",
       "numero_id": 65214789,
@@ -65,7 +65,7 @@
       "valor": 99999.99
     },
     {
-      "id_factura": "011",
+      "id_factura": "009",
       "categoria": "energia",
       "nombre": "Paula",
       "numero_id": 78965412,
@@ -73,7 +73,7 @@
       "valor": 0.99
     },
     {
-      "id_factura": "011",
+      "id_factura": "010",
       "categoria": "agua",
       "nombre": "Ricardo",
       "numero_id": 95135784,
