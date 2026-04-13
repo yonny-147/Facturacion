@@ -1,5 +1,5 @@
 {
-  "respuesta": {
+  "respuesta": [
   "success": true,
   "tittle_response": "Respuesta exitosa",
   "facturacion":[ 
@@ -100,5 +100,5 @@
         "valor": 50.1
       }
     ]
-  }
+  ]
 }
