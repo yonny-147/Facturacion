@@ -1,7 +1,8 @@
 {
+  "data": {
   "success": true,
   "tittle_response": "Respuesta exitosa",
-  "facturacion": [
+  "facturacion":[ 
     {
       "id_factura": "001",
       "categoria": "hogar",
@@ -99,4 +100,5 @@
       "valor": 50.1
     }
   ]
+}
 }
