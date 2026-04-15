@@ -1,100 +1,145 @@
 {
-    "facturacion":[
-        {
-            "id_factura": "001",
-            "categoria": "hogar",
-            "nombre": "Carlos",
-            "numero_id": 10251205,
-            "correo": "carlos1payco@pruebas.com",
-            "valor": 30000
-        },
-        {
-            "id_factura": "002",
-            "categoria": "movil",
-            "nombre": "David",
-            "numero_id": 10548715,
-            "correo": "david1payco@pruebas.com",
-            "valor": 50000
-        },
-        {
-            "id_factura": "003",
-            "categoria": "hogar",
-            "nombre": "Maria",
-            "numero_id": 11520158,
-            "correo": "maria1payco@pruebas.com",
-            "valor": 20000
-        },
-        {
-            "id_factura": "004",
-            "categoria": "movil",
-            "nombre": "Laura",
-            "numero_id": 25400125,
-            "correo": "laura1payco@pruebas.com",
-            "valor": 40000
-        },
-        {
-            "id_factura": "005",
-            "categoria": "hogar",
-            "nombre": "Milton",
-            "numero_id": 5402504,
-            "correo": "milton1payco@pruebas.com",
-            "valor": 54100
-        },
-        {
-            "id_factura": "006",
-            "categoria": "hogar",
-            "nombre": "Jorge",
-            "numero_id": 5402505,
-            "correo": "jorge1payco@pruebas.com",
-            "valor": 206175.0026
-        },
-        {
-            "id_factura": "007",
-            "categoria": "internet",
-            "nombre": "Andrea",
-            "numero_id": 78451236,
-            "correo": "andrea1payco@pruebas.com",
-            "valor": 15000.5
-        },
-        {
-            "id_factura": "008",
-            "categoria": "tv",
-            "nombre": "Felipe",
-            "numero_id": 65214789,
-            "correo": "felipe1payco@pruebas.com",
-            "valor": 99999.99
-        },
-        {
-            "id_factura": "009",
-            "categoria": "energia",
-            "nombre": "Paula",
-            "numero_id": 78965412,
-            "correo": "paula1payco@pruebas.com",
-            "valor": 0.99
-        },
-        {
-            "id_factura": "010",
-            "categoria": "agua",
-            "nombre": "Ricardo",
-            "numero_id": 95135784,
-            "correo": "ricardo1payco@pruebas.com",
-            "valor": 1000000.75
-        },
-        {
-            "id_factura": "011",
-            "categoria": "gas",
-            "nombre": "Sofia",
-            "numero_id": 45698712,
-            "correo": "sofia1payco@pruebas.com",
-            "valor": 12345.6789
-        },
-        {
-            "id_factura": "012",
-            "categoria": "hogar",
-            "nombre": "Daniel",
-            "numero_id": 35795146,
-            "correo": "daniel1payco@pruebas.com",
-            "valor": 50.1
-        }
-    ]
+  "facturacion": [
+    {
+      "id_factura": "001",
+      "categoria": "hogar",
+      "nombre": "Carlos",
+      "numero_id": 10251205,
+      "correo": "carlos1payco@pruebas.com",
+      "valor": 30000
+    },
+    {
+      "id_factura": "002",
+      "categoria": "movil",
+      "nombre": "David",
+      "numero_id": 10548715,
+      "correo": "david1payco@pruebas.com",
+      "valor": 50000
+    },
+    {
+      "id_factura": "003",
+      "categoria": "hogar",
+      "nombre": "Maria",
+      "numero_id": 11520158,
+      "correo": "maria1payco@pruebas.com",
+      "valor": 20000
+    },
+    {
+      "id_factura": "004",
+      "categoria": "movil",
+      "nombre": "Laura",
+      "numero_id": 25400125,
+      "correo": "laura1payco@pruebas.com",
+      "valor": 40000
+    },
+    {
+      "id_factura": "005",
+      "categoria": "hogar",
+      "nombre": "Milton",
+      "numero_id": 5402504,
+      "correo": "milton1payco@pruebas.com",
+      "valor": 54100
+    },
+    {
+      "id_factura": "006",
+      "categoria": "hogar",
+      "nombre": "Jorge",
+      "numero_id": 5402505,
+      "correo": "jorge1payco@pruebas.com",
+      "valor": 206175.0026
+    },
+    {
+      "id_factura": "007",
+      "categoria": "internet",
+      "nombre": "Andrea",
+      "numero_id": 78451236,
+      "correo": "andrea1payco@pruebas.com",
+      "valor": 15000.5
+    },
+    {
+      "id_factura": "008",
+      "categoria": "tv",
+      "nombre": "Felipe",
+      "numero_id": 65214789,
+      "correo": "felipe1payco@pruebas.com",
+      "valor": 99999.99
+    },
+    {
+      "id_factura": "009",
+      "categoria": "energia",
+      "nombre": "Paula",
+      "numero_id": 78965412,
+      "correo": "paula1payco@pruebas.com",
+      "valor": 0.99
+    },
+    {
+      "id_factura": "010",
+      "categoria": "agua",
+      "nombre": "Ricardo",
+      "numero_id": 95135784,
+      "correo": "ricardo1payco@pruebas.com",
+      "valor": 1000000.75
+    },
+    {
+      "id_factura": "011",
+      "categoria": "gas",
+      "nombre": "Sofia",
+      "numero_id": 45698712,
+      "correo": "sofia1payco@pruebas.com",
+      "valor": 35200.6789
+    },
+    {
+      "id_factura": "011",
+      "categoria": "gas",
+      "nombre": "Sofia",
+      "numero_id": 45698712,
+      "correo": "sofia1payco@pruebas.com",
+      "valor": 12345.6789
+    },
+    {
+      "id_factura": "011",
+      "categoria": "gas",
+      "nombre": "Sofia",
+      "numero_id": 45698712,
+      "correo": "sofia1payco@pruebas.com",
+      "valor": 12345
+    },
+    {
+      "id_factura": "011",
+      "categoria": "gas",
+      "nombre": "Sofia",
+      "numero_id": 45698712,
+      "correo": "sofia1payco@pruebas.com",
+      "valor": 12345.6789
+    },
+    {
+      "id_factura": "012",
+      "categoria": "hogar",
+      "nombre": "Daniel",
+      "numero_id": 35795146,
+      "correo": "daniel1payco@pruebas.com",
+      "valor": 50000
+    }{
+      "id_factura": "012",
+      "categoria": "hogar",
+      "nombre": "Daniel",
+      "numero_id": 35795146,
+      "correo": "daniel1payco@pruebas.com",
+      "valor": 75000
+    }{
+      "id_factura": "012",
+      "categoria": "hogar",
+      "nombre": "Daniel",
+      "numero_id": 35795146,
+      "correo": "daniel1payco@pruebas.com",
+      "valor": 450000
+    }{
+      "id_factura": "012",
+      "categoria": "hogar",
+      "nombre": "Daniel",
+      "numero_id": 35795146,
+      "correo": "daniel1payco@pruebas.com",
+      "valor": 1550.14
+    }
+  ]
 }
