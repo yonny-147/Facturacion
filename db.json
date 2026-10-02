@@ -309,8 +309,8 @@
       "adicional18": "Contrato mensual",
       "adicional19": "Penalizacion retiro 0",
       "adicional20": "Soporte tecnico presencial",
-      "fecha": "2024-01-28",
-      "hora": "15:10:00"
+      "fecha": "2024-01-15T08:30:00Z",
+      "hora": "2024-01-15T08:30:00Z"
     },
     {
       "id_factura": "009",
@@ -348,8 +348,8 @@
       "adicional18": "",
       "adicional19": "",
       "adicional20": "",
-      "fecha": "2024-01-30",
-      "hora": "16:00:00"
+      "fecha": "2024-01-15T08:30:00Z",
+      "hora": "2024-01-15T08:30:00Z"
     },
     {
       "id_factura": "010",
@@ -387,8 +387,8 @@
       "adicional18": "",
       "adicional19": "",
       "adicional20": "",
-      "fecha": "2024-01-12",
-      "hora": "16:45:00"
+      "fecha": "2024-01-15T08:30:00Z",
+      "hora": "2024-01-15T08:30:00Z"
     },
     {
       "id_factura": "010",
@@ -426,8 +426,8 @@
       "adicional18": "",
       "adicional19": "",
       "adicional20": "",
-      "fecha": "2024-01-08",
-      "hora": "17:30:00"
+      "fecha": "2024-01-15T08:30:00Z",
+      "hora": "2024-01-15T08:30:00Z"
     },
     {
       "id_factura": "010",
@@ -465,8 +465,8 @@
       "adicional18": "",
       "adicional19": "",
       "adicional20": "",
-      "fecha": "2024-01-08",
-      "hora": "17:45:00"
+      "fecha": "2024-01-15T08:30:00Z",
+      "hora": "2024-01-15T08:30:00Z"
     },
     {
       "id_factura": "011",
@@ -504,8 +504,8 @@
       "adicional18": "",
       "adicional19": "",
       "adicional20": "",
-      "fecha": "2024-01-08",
-      "hora": "18:00:00"
+      "fecha": "2024-01-15T08:30:00Z",
+      "hora": "2024-01-15T08:30:00Z"
     },
     {
       "id_factura": "012",
@@ -543,8 +543,8 @@
       "adicional18": "",
       "adicional19": "",
       "adicional20": "",
-      "fecha": "2024-01-08",
-      "hora": "18:15:00"
+      "fecha": "2024-01-15T08:30:00Z",
+      "hora": "2024-01-15T08:30:00Z"
     },
     {
       "id_factura": "013",
@@ -582,8 +582,8 @@
       "adicional18": "",
       "adicional19": "",
       "adicional20": "",
-      "fecha": "2024-01-02",
-      "hora": "19:00:00"
+      "fecha": "2024-01-15T08:30:00Z",
+      "hora": "2024-01-15T08:30:00Z"
     },
     {
       "id_factura": "014",
@@ -621,8 +621,8 @@
       "adicional18": "",
       "adicional19": "",
       "adicional20": "",
-      "fecha": "2024-01-02",
-      "hora": "19:15:00"
+      "fecha": "2024-01-15T08:30:00Z",
+      "hora": "2024-01-15T08:30:00Z"
     },
     {
       "id_factura": "015",
@@ -660,8 +660,8 @@
       "adicional18": "",
       "adicional19": "",
       "adicional20": "",
-      "fecha": "2024-01-02",
-      "hora": "19:30:00"
+      "fecha": "2024-01-15T08:30:00Z",
+      "hora": "2024-01-15T08:30:00Z"
     },
     {
       "id_factura": "016",
@@ -699,8 +699,8 @@
       "adicional18": "",
       "adicional19": "",
       "adicional20": "",
-      "fecha": "2024-01-02",
-      "hora": "19:45:00"
+      "fecha": "2024-01-15T08:30:00Z",
+      "hora": "2024-01-15T08:30:00Z"
     }
   ]
 }
